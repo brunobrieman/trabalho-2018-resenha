@@ -1,0 +1,11 @@
+[
+    {
+        "nome": "bruno",
+        "email": "bruno.brieman@gmail.com",
+        "apelido": "bruno",
+        "senha": "123",
+        "confirmarSenha": "123",
+        "dataNascimento": "1212-11-12",
+        "number": "5bfc211936578"
+    }
+]

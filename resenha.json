@@ -1,0 +1,146 @@
+{
+	"1": {
+		"id_resenha": 1,
+		"nome": "FIFA18",
+		"ano":2017,
+		"resenha": "Fifa 18 é o novo capítulo da franquia de futebol mais popular do mundo. Disponível para Xbox One, Xbox 360, PS4, PS3, PCs e Nintendo Switch, o jogo da EA Sports busca se consolidar na popularidade do gênero mudando poucos elementos e apostando em seus principais modos de jogo: FUT e A Jornada Para quem é fã da série, isso soa como um alívio. Afinal, como diz o famoso ditado futebolístico: não se mexe em time que está ganhando. Mas ao mesmo tempo, a empresa precisa justificar a compra de um novo jogo, principalmente em países como Brasil, onde cada lançamento beira a casa dos R$ 200.",
+		"imagem1": "fifa10.jpg",
+		"imagem2": "fifa3.jpg",
+		"imagem3": "fifa2.jpg",
+		"imagem4": "fifa1.jpg",
+		"video":"https://www.youtube.com/embed/QV7PK8AVEKA;"
+	},
+
+	"2": {
+		"id_resenha": 2,
+		"nome": "PES18",
+		"ano":2017,
+		"resenha": "PES 2018 é a nova versão do game de futebol mais popular do Brasil. Lançado para Xbox One, Xbox 360, PS4, PS3 e PCs, o game aposta em melhorias na sua jogabilidade e a presença de novos modos de jogo para ampliar a sua base de fãs.A grande mudança na nova versão de PES é a sua jogabilidade. Vale lembrar que a quia, desde que chegou na atual geração de consoles, segue uma linha de evolução acentuada, que alcança o seu ápice neste título. Em outras palavras, a Konami finalmente conseguiu acertar a mão em quase todos os problemas relacionados à mecânica de seu jogo.",
+		"imagem1": "pes.jpg",
+		"imagem2": "pes2018.jpg",
+		"imagem3": "pes2.jpg",
+		"imagem4": "pes3.jpg",
+		"video":"https://www.youtube.com/embed/jGgNxN0rQYw;"
+	},
+
+	"3": {
+		"id_resenha":3,
+		"nome":"NBA 2K18",
+		"ano":2017,
+		"resenha":"NBA 2K18 é o novo lançamento da franquia anual de basquete da 2K. Disponível para Nintendo Switch, PS4, PS3, Xbox One, Xbox 360 e PC, o simulador conta com algumas novidades, além de gráficos muito realistas, jogabilidade primorosa e boa diversidade de modos de jogo.",
+		"imagem1":"nba.png",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"4": {
+		"id_resenha":4,
+		"nome":"Formula 1",
+		"ano":2017,
+		"resenha":"TESTE",
+		"imagem1":"nfl.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"5": {
+		"id_resenha":5,
+		"nome":"UFC17",
+		"ano":2016,
+		"resenha":"TESTE",
+		"imagem1":"wwe.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"6": {
+		"id_resenha":6,
+		"nome":"Nfl-Madden18",
+		"ano":2017,
+		"resenha":"TESTE",
+		"imagem1":"nfl.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"7": {
+		"id_resenha":7,
+		"nome":"WWE2k17",
+		"ano":2016,
+		"resenha":"TESTE",
+		"imagem1":"wwe.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"8": {
+		"id_resenha":8,
+		"nome":"NHL18",
+		"ano":2017,
+		"resenha":"TESTE",
+		"imagem1":"nhl.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"9": {
+		"id_resenha":9,
+		"nome":"Skate3",
+		"ano":2016,
+		"resenha":"TESTE",
+		"imagem1":"skate.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"10": {
+		"id_resenha":10,
+		"nome":"Forza3",
+		"ano":2016,
+		"resenha":"TESTE",
+		"imagem1":"forza.png",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"11": {
+		"id_resenha":11,
+		"nome":"Nba Live",
+		"ano":2016,
+		"resenha":"TESTE",
+		"imagem1":"live.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	},
+	"12": {
+		"id_resenha":12,
+		"nome":"Steep",
+		"ano":2016,
+		"resenha":"TESTE",
+		"imagem1":"steep.jpg",
+		"imagem2":"",
+		"imagem3":"",
+		"imagem4":"",
+		"video":"video"
+
+	}
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "nome": "bruno",
+        "email": "bruno.brieman@gmail.com",
+        "apelido": "bruno",
+        "senha": "1231",
+        "confirmarSenha": "1233",
+        "dataNascimento": "11111-11-11",
+        "number": "5bfc2215853b7"
+    },
+    {
+        "nome": "bruno",
+        "email": "bruno.brieman@gmail.com",
+        "apelido": "bruno",
+        "senha": "1231",
+        "confirmarSenha": "1233",
+        "dataNascimento": "11111-11-11",
+        "number": "5bfc23c78ddf1"
+    },
+    {
+        "nome": "bruno",
+        "email": "bruno.brieman@gmail.com",
+        "apelido": "bruno",
+        "senha": "12312",
+        "confirmarSenha": "123321",
+        "dataNascimento": "2222-02-21",
+        "number": "5bfc23d7b6fe3"
+    },
+    {
+        "nome": "walace",
+        "email": "walace.sla@gmail.com",
+        "apelido": "viadinho",
+        "senha": "123",
+        "confirmarSenha": "123",
+        "dataNascimento": "10100-10-10",
+        "number": "5bfe740b5023f"
+    },
+    {
+        "nome": "mateus",
+        "email": "uwhewu@gmail.com",
+        "apelido": "12981928",
+        "senha": "8198298",
+        "confirmarSenha": "819289",
+        "dataNascimento": "",
+        "number": "5bfe74be940a5"
+    },
+    {
+        "nome": "Cardoso",
+        "email": "cardoso@gmail.com",
+        "apelido": "cardoso",
+        "senha": "123",
+        "confirmarSenha": "123",
+        "dataNascimento": "2001-12-31",
+        "number": "5bfe95591ce11"
+    },
+    {
+        "nome": "passig",
+        "email": "loucospormine@gmail.com",
+        "apelido": "indio",
+        "senha": "123",
+        "confirmarSenha": "123",
+        "dataNascimento": "2002-02-10",
+        "number": "5bfffee59bc2b"
+    },
+    {
+        "nome": "pedro",
+        "email": "pedro@gmail.com",
+        "apelido": "nego",
+        "senha": "123",
+        "confirmarSenha": "123",
+        "dataNascimento": "2001-02-10",
+        "number": "5c0015f9357b2"
+    },
+    {
+        "nome": "bruno",
+        "email": "bruno.brieman@gmail.com",
+        "apelido": "br",
+        "senha": "123",
+        "confirmarSenha": "123",
+        "dataNascimento": "1221-02-11",
+        "number": "5c9819197d950"
+    },
+    {
+        "nome": "bruno",
+        "email": "bruno.brieman@gmail.com",
+        "apelido": "br",
+        "senha": "123",
+        "confirmarSenha": "123",
+        "dataNascimento": "0012-03-12",
+        "number": "5c98194eba1a6"
+    }
+]
